@@ -1,7 +1,7 @@
 # Sound-sick
 
 ## Tagline du projet
-Recherche ou sortir en fonction de ses gouts musicaux et de son humeur du moment
+Recherche ou sortir en fonction de tes gouts musicaux et de ton humeur du moment
 
 ## Pourquoi ?
 - La vie c'est dur, surtout quand y'a pas d'applications pour te dire ou aller pour boire de l'alcohol en écoutant le dernier album de Celine Dion.
